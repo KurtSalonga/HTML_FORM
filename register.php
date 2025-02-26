@@ -10,7 +10,7 @@
 </body>
 </html>
 <form action="action.php" method="POST">
-    <table>
+    <table border="1">
         <tr>
             <td> Name: </td>
             <td> <input type="text" name="name"> </td>
