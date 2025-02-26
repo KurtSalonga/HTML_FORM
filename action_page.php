@@ -9,7 +9,7 @@
     <h1>REGISTER HERE!</h1>
 </body>
 </html>
-<form action="action.php" method="POST">
+<form action="action_page.php" method="POST">
     <table border="1">
         <tr>
             <td> Name: </td>
